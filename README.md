@@ -18,6 +18,6 @@ Mục tiêu của dự án:
 DATATHON/
 │── README.md
 │── Datathon_P1.ipynb   # Code câu hỏi trắc nghiệm
-│── Datathon_P2.ipynb   # Xử lý dữ liệu
+│── Datathon_P2.ipynb   # Xử lý dữ liệu & insight 
 │── Datathon_P3.ipynb   # Mô hình & đánh giá
 ```
