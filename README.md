@@ -12,12 +12,9 @@ Mục tiêu của dự án:
 - Python (NumPy, Pandas, Matplotlib, Seaborn,…)
 - Jupyter Notebook / Google Colab.
 - SQL,Mysql.
-## 📂 Cấu trúc thư mục
-DATATHON/│
-├──Data
-│
-├──Datathon_P1:Trả Lời câu hỏi
-│
-├──Datathin_P2:Code + Hình ảnh chức quan hóa
-│
-├──
+DATATHON/
+│── README.md
+│── Datathon_p1.ipynb   # Code câu hỏi trăc nhiệm
+│── Datathon_p2.ipynb   # code và xử lí dữ liệu
+│── Datathon_p3.ipynb   # Mô hình và đánh giá 
+
