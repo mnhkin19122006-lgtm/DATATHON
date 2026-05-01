@@ -5,7 +5,7 @@ Dự án này được thực hiện trong khuôn khổ **Datathon** – một c
 
 Mục tiêu của dự án:
 - Phân tích dữ liệu
-- Xây dựng mô hình (nếu có)
+- Xây dựng mô hình 
 - Trực quan hóa kết quả
 - Đưa ra insight / kết luận
 ## 🧠 Công nghệ sử dụng
@@ -17,7 +17,7 @@ Mục tiêu của dự án:
 ```
 DATATHON/
 │── README.md
-│── Datathon_p1.ipynb   # Code câu hỏi trắc nghiệm
-│── Datathon_p2.ipynb   # Xử lý dữ liệu
-│── Datathon_p3.ipynb   # Mô hình & đánh giá
+│── Datathon_P1.ipynb   # Code câu hỏi trắc nghiệm
+│── Datathon_P2.ipynb   # Xử lý dữ liệu
+│── Datathon_P3.ipynb   # Mô hình & đánh giá
 ```
