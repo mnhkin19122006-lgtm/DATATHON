@@ -9,9 +9,10 @@ Mục tiêu của dự án:
 - Trực quan hóa kết quả
 - Đưa ra insight / kết luận
 ## 🧠 Công nghệ sử dụng
-- Python (NumPy, Pandas, Matplotlib, Seaborn,…)
+- Tech Stack: Python (NumPy, Pandas, Matplotlib, Seaborn,Scikit-learn,…),Shap,Time Series Walk-forward CV
 - Jupyter Notebook / Google Colab.
-- SQL,Mysql.
+- Machine Learning Algorithms: Random Forest, Gradient Boosting, XGBoost (XGBRegressor)
+  
 ## 📂 Cấu trúc thư mục
 
 ```
