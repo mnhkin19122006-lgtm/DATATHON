@@ -13,9 +13,11 @@ Mục tiêu của dự án:
 - Jupyter Notebook / Google Colab.
 - SQL,Mysql.
 ## 📂 Cấu trúc thư mục
+
+'''
 DATATHON/
 │── README.md
-│── Datathon_p1.ipynb   # Code câu hỏi trăc nhiệm
-│── Datathon_p2.ipynb   # code và xử lí dữ liệu
-│── Datathon_p3.ipynb   # Mô hình và đánh giá 
-
+│── Datathon_p1.ipynb # Code câu hỏi trắc nghiệm
+│── Datathon_p2.ipynb # Xử lý dữ liệu
+│── Datathon_p3.ipynb # Mô hình & đánh giá
+'''
